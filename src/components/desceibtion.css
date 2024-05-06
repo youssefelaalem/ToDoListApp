@@ -1,0 +1,18 @@
+div.desc div.contant{
+
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+div.desc h1{
+    position: relative;
+    margin: 100px 0px;
+    font-size: 50px;
+  
+}
+div.contant p.para{
+    /* display: block; */
+    margin: 10px 0px; 
+}
